@@ -8,6 +8,7 @@ package com.ibm.eclipse;
 public class FirstJavaClass {
 	private int var1;
 	private int var2;
+	// comment
 
 	public int getVar1() {
 		return var1;
