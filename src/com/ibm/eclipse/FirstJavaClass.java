@@ -1,5 +1,5 @@
 package com.ibm.eclipse;
-//edit from test branch
+//test
 /**
  * 
  * @author 051589858
