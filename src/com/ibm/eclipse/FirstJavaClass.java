@@ -1,5 +1,6 @@
 package com.ibm.eclipse;
 
+//commit 2
 //commit 1
 //test
 /**
